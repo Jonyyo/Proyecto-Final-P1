@@ -1,0 +1,130 @@
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.g.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\obj\Debug\App.g.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.lref
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.baml
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.g.resources
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.g.cs
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\obj\Debug\App.g.cs
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.cache
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.lref
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.baml
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.g.resources
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\MySql.Data.dll
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\Google.Protobuf.dll
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\Zstandard.Net.dll
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\System.Memory.dll
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\System.Buffers.dll
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\bin\Debug\MySql.Data.xml
+C:\Users\ramos\Desktop\Proyecto\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\MySql.Data.dll
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\Google.Protobuf.dll
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\Zstandard.Net.dll
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\System.Memory.dll
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\System.Buffers.dll
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\bin\Debug\MySql.Data.xml
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.g.cs
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\obj\Debug\App.g.cs
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.cache
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.lref
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.baml
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.g.resources
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\alumno\Desktop\sdf\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\Google.Protobuf.dll
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\Zstandard.Net.dll
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\System.Memory.dll
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\System.Buffers.dll
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\MySql.Data.xml
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.g.cs
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\App.g.cs
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.cache
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.lref
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.baml
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.g.resources
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\7010\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\MySql.Data.dll
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\Google.Protobuf.dll
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\Zstandard.Net.dll
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\System.Memory.dll
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\System.Buffers.dll
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\bin\Debug\MySql.Data.xml
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.g.cs
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\App.g.cs
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.cache
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.lref
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.baml
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.g.resources
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\alumno\Desktop\Nueva carpeta\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
